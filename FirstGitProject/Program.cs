@@ -10,6 +10,7 @@ namespace FirstGitProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hallo du Pfeife!");
         }
     }
 }
